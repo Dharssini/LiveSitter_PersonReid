@@ -110,12 +110,16 @@ excellent accuracy.
 ## Step 5: Visualization and Demonstration (10 points)
 
 Object Detection:
+
 ![image](https://github.com/Dharssini/LiveSitter_PersonReid/assets/73426538/dca4d4ea-a04a-4268-a690-b9f02c6811bc)
 
 Face Detection:
+
 ![image](https://github.com/Dharssini/LiveSitter_PersonReid/assets/73426538/6b038abb-b4e7-4b9e-95e0-02caf6c1bea2)
 
 Siamese Face detection:
+
 ![__results___7_0](https://github.com/Dharssini/LiveSitter_PersonReid/assets/73426538/6b640ca2-04a2-48a5-9d7a-afe9dfaaa0a8)
+
 
 LiveSitter_PersonReid
